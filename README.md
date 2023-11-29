@@ -96,10 +96,10 @@ Output: 4
 1. Run the unit testing command on your terminal to ensure that your program runs as expected.
 
     ```
-    python3 -m unittest -v test
+    python3 -m unittest -v test_
     ```
        
-    The unit testing will output the results of a series of tests using specific input and expected output.  Any error will provide information on where the expected output is different from the actual output.  You will need to edit your source code to fix the error and run `./test.sh` repeatedly until it passes all the test.
+    The unit testing will output the results of a series of tests using specific input and expected output.  Any error will provide information on where the expected output is different from the actual output.  You will need to edit your source code to fix the error and run `python3 -m unittest -v test_` repeatedly until it passes all the test.
 
 ## Submission
 Periodically throughout the exercise, and when you have completed the exercise, **submit the complete repository to Github**.
