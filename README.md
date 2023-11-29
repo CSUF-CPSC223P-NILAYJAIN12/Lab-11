@@ -18,7 +18,7 @@
 1. Navigate into the new directory using the command line. Note that `username` should be replaced with your own Github username.  As a shortcut, you can type the first few letters of the folder name and press <kbd>Tab</kbd> so that it auto completes the folder name for you.
 
      ```
-     cd lab08-username
+     cd lab11-username
      ```
      
 ## Program Instructions:
